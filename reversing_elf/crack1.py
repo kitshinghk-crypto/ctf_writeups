@@ -1,0 +1,31 @@
+#!/usr/bin/python3
+secret={}
+secret[0] = 0x25;
+secret[1] = 0x2b;
+secret[2] = 0x20;
+secret[3] = 0x26;
+secret[4] = 0x3a;
+secret[5] = 0x2d;
+secret[6] = 0x2e;
+secret[7] = 0x33;
+secret[8] = 0x1e;
+secret[9] = 0x33;
+secret[10] = 0x27;
+secret[11] = 0x20;
+secret[12] = 0x33;
+secret[13] = 0x1e;
+secret[14] = 0x2a;
+secret[15] = 0x28;
+secret[16] = 0x2d;
+secret[17] = 0x23;
+secret[18] = 0x1e;
+secret[19] = 0x2e;
+secret[20] = 0x25;
+secret[21] = 0x1e;
+secret[22] = 0x24;
+secret[23] = 0x2b;
+secret[24] = 0x25;
+secret[25] = 0x3c;
+secret[26] = 0xff;
+for i in secret.values():
+     print(chr(i+0x41),end="");
