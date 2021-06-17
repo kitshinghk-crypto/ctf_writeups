@@ -1,3 +1,7 @@
 # Writeup of reverse engineering CTF
+Solving reverse engineering CTF using static analysis using Ghidra
 ## Tryhackme
-**resversing_elf** - A Tryhackme reverse engineering CTF solved by static analysis using Ghidra
+
+**resversing_elf**
+
+**reloaded**  
