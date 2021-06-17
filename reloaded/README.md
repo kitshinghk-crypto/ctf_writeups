@@ -2,6 +2,7 @@
 The CTF is solved by using static analysis with Ghidra
 ## Level0
 The flag can be found by using the Ghidra "defined strings" function after analysis.
+![screenshot](https://github.com/kitshinghk-crypto/re_writeups/blob/main/reloaded/level0.png?raw=true)
 
 ## Level1
 The flag can be found in a function, which checks the input with the correct answer. 
