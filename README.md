@@ -2,6 +2,6 @@
 Solving reverse engineering CTF using static analysis using Ghidra
 ## Tryhackme
 
-**resversing_elf**
+[Reversing ELF](reversing_elf)
 
-**reloaded**  
+[REloaded](reloaded)
