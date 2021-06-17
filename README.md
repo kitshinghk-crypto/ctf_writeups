@@ -1,2 +1,4 @@
 # tryhackme_writeup
-Writeups of tryhackme CTF 
+
+## resversing ELF
+A reverse engineering CTF solved by static analysis using Ghidra
