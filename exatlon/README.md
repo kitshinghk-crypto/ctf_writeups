@@ -1,7 +1,7 @@
 # Hackthebox exatlon CTF writeup
-The .exe file is packed by udp. First unpack the .exe file using the following command
+The .exe file is packed by upx. First unpack the .exe file using the following command
 ```
-udp -d exatlon_v1 -o exatlon_v1_clear
+upx -d exatlon_v1 -o exatlon_v1_clear
 ```
 Open the unpacked .exe with Ghidra. The main() function is listed in the following:
 ```C
