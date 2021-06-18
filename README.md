@@ -5,6 +5,7 @@ Solving reverse engineering CTF using static analysis using Ghidra
 
 [Impossible password](impossible_password)
 
+[Exatlon](exatlon)
 ## Tryhackme
 
 [Reversing ELF](reversing_elf)
