@@ -1,7 +1,10 @@
-# Writeup of reverse engineering CTF
-Solving reverse engineering CTF using static analysis using Ghidra
 
 ## Hackthebox
+**Crypto**
+
+[TwoForOne](twoforone)
+
+**Reverse engineering**
 
 [Impossible password](impossible_password)
 
@@ -10,6 +13,7 @@ Solving reverse engineering CTF using static analysis using Ghidra
 [Mission Pinpossible](mission_pinpossible)
 
 ## Tryhackme
+**Reverse engineering**
 
 [Reversing ELF](reversing_elf)
 
