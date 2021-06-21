@@ -1,6 +1,7 @@
-HTB twoforone crypto writeup
+# HTB twoforone crypto writeup
 
-**CHALLENGE DESCRIPTION**
+## CHALLENGE DESCRIPTION
+
 Alice sent two times the same message to Bob.
 
 **Writeup**
