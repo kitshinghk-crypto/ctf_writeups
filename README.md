@@ -16,6 +16,10 @@
 
 [Mission Pinpossible](mission_pinpossible)
 
+**Hardware**
+
+[Project Power](project_power)
+
 ## Tryhackme
 **Reverse engineering**
 
