@@ -5,8 +5,7 @@ We captured the embedded device that was used to encrypt the ciphers we need to 
 
 The web service let the attackers to enter a plaintext and return the power trace of the secure device while encrypting the plaintext.
 
-```
-└─$ nc 206.189.20.127 30915                                                                                                                                                                             1 ⨯
+```                                                                                                                                                                         
 Remote Lab Interface:
 1. Encrypt plaintext (Returns power trace)
 2. Verify key (Returns ASCII Text)
