@@ -23,4 +23,5 @@ The attack can be divied into 2 stages:
 Around 1000 traces of random plaintext are obtained using the web service provide.
 
 ** Analysis stage ** 
+
 A DPA attack targeting the LSB of the output of the first sub-byte. 
