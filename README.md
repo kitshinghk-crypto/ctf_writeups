@@ -8,6 +8,8 @@
 
 **Reverse engineering**
 
+[The Needle](the_needle)
+
 [Impossible password](impossible_password)
 
 [Exatlon](exatlon)
