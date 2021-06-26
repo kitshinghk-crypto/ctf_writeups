@@ -6,6 +6,8 @@
 
 [Xorxorxor](xorxorxor)
 
+[Lost Modulus](lost_modulus)
+
 **Reverse engineering**
 
 [The Needle](the_needle)
