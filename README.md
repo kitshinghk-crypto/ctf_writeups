@@ -22,6 +22,9 @@
 
 [Project Power](project_power)
 
+## Cryptohack
+[**Block cipher**](cryptohack_blockciphers)
+
 ## Tryhackme
 **Reverse engineering**
 
